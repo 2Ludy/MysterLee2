@@ -13,6 +13,7 @@ public class Main_1240 { // 노드사이의 거리
 	static List<int[]>[] tree;
 	
 	public static void main(String[] args) throws Exception {
+		
 		// N개 노드, M개의 쌍
 		// 두 노드 사이의 거리 출력
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

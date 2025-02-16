@@ -8,7 +8,8 @@ import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_1167 { // 트리의 지름	
+public class Main_1167 { // 트리의 지름
+	
 	static int N,node,adj,dis, treeDia, farNode;
 	static List<int[]>[] tree;
 	static boolean[] visited;
